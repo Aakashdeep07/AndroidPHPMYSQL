@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPHPMYSQL</string>
+    <string-array name="department">
+        <item>BCA</item>
+        <item>B.VOC</item>
+    </string-array>
+</resources>
